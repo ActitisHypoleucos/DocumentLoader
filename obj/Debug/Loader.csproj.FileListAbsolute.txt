@@ -1,0 +1,13 @@
+C:\Lavori in Classe\MaterialeDBLoad\Loader\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Lavori in Classe\MaterialeDBLoad\Loader\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Lavori in Classe\MaterialeDBLoad\Loader\bin\Debug\Loader.exe.config
+C:\Lavori in Classe\MaterialeDBLoad\Loader\bin\Debug\Loader.exe
+C:\Lavori in Classe\MaterialeDBLoad\Loader\bin\Debug\Loader.pdb
+C:\Lavori in Classe\MaterialeDBLoad\Loader\obj\Debug\Loader.exe
+C:\Lavori in Classe\MaterialeDBLoad\Loader\obj\Debug\Loader.pdb
+C:\Users\Aula2PC10\Informatica\Soluzioni\MaterialeDBLoad\Loader\bin\Debug\Loader.exe.config
+C:\Users\Aula2PC10\Informatica\Soluzioni\MaterialeDBLoad\Loader\bin\Debug\Loader.exe
+C:\Users\Aula2PC10\Informatica\Soluzioni\MaterialeDBLoad\Loader\bin\Debug\Loader.pdb
+C:\Users\Aula2PC10\Informatica\Soluzioni\MaterialeDBLoad\Loader\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\Aula2PC10\Informatica\Soluzioni\MaterialeDBLoad\Loader\obj\Debug\Loader.exe
+C:\Users\Aula2PC10\Informatica\Soluzioni\MaterialeDBLoad\Loader\obj\Debug\Loader.pdb
